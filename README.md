@@ -18,6 +18,9 @@ Rouge score is calculated. Results can be improved by changing the hyperparamete
 
 ## Acknowledgments
 https://arxiv.org/abs/1706.03762
+
 Inshorts Dataset: https://www.kaggle.com/shashichander009/inshorts-news-data
+
 The NLTK library: https://www.nltk.org/
+
 Google Colab: https://colab.research.google.com/
